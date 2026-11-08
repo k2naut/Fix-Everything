@@ -1,0 +1,3 @@
+- BJT
+- FET
+- MOSFET
